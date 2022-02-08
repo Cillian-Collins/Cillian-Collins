@@ -7,6 +7,9 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Open Redirect Filters](https://cillian.tech/2020/05/12/Open-Redirect-Filters.html)
+- [XSS Filter Evasion](https://cillian.tech/2019/06/17/XSS-Filter-Evasion.html)
+- [Exploiting POST-Based CSRF](https://cillian.tech/2019/05/23/Exploiting-Post-Based-CSRF.html)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Languages and Tools:</h3>
