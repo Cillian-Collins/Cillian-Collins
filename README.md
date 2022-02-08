@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cillian-collins&label=Profile%20views&color=0e75b6&style=flat" alt="cillian-collins" /> </p>
 
-- 📝 I regularly write articles on [cillian.tech](cillian.tech)
+📝 I regularly write blog posts on [cillian.tech](cillian.tech)
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
