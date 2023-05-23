@@ -7,10 +7,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Deadsec — TrailBlazer](https://blog.westernsecurity.ie/2023/05/21/Deadsec-Trailblazer.html)
+- [Digital Overdose CTF — Pop-Up Bank](https://blog.westernsecurity.ie/2022/11/20/Digital-Overdose-CTF-Pop-Up-Bank.html)
+- [MapleCTF — Pickle](https://blog.westernsecurity.ie/2022/08/29/MapleCTF-Pickle.html)
 - [Intigriti CTF — Phorrifyingp](https://blog.westernsecurity.ie/2022/03/12/Intigriti-CTF-Phorrifyingp.html)
-- [Open Redirect Filters](https://blog.westernsecurity.ie/2020/05/12/Open-Redirect-Filters.html)
-- [XSS Filter Evasion](https://blog.westernsecurity.ie/2019/06/17/XSS-Filter-Evasion.html)
-- [Exploiting POST-Based CSRF](https://blog.westernsecurity.ie/2019/05/23/Exploiting-Post-Based-CSRF.html)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Languages and Tools:</h3>
