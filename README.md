@@ -3,14 +3,14 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cillian-collins&label=Profile%20views&color=0e75b6&style=flat" alt="cillian-collins" /> </p>
 
-📝 I regularly write blog posts on [cillian.tech](https://cillian.tech)
+📝 I regularly write blog posts on [blog.westernsecurity.ie](https://blog.westernsecurity.ie)
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
-- [Intigriti CTF — Phorrifyingp](https://cillian.tech/2022/03/12/Intigriti-CTF-Phorrifyingp.html)
-- [Open Redirect Filters](https://cillian.tech/2020/05/12/Open-Redirect-Filters.html)
-- [XSS Filter Evasion](https://cillian.tech/2019/06/17/XSS-Filter-Evasion.html)
-- [Exploiting POST-Based CSRF](https://cillian.tech/2019/05/23/Exploiting-Post-Based-CSRF.html)
+- [Intigriti CTF — Phorrifyingp](https://blog.westernsecurity.ie/2022/03/12/Intigriti-CTF-Phorrifyingp.html)
+- [Open Redirect Filters](https://blog.westernsecurity.ie/2020/05/12/Open-Redirect-Filters.html)
+- [XSS Filter Evasion](https://blog.westernsecurity.ie/2019/06/17/XSS-Filter-Evasion.html)
+- [Exploiting POST-Based CSRF](https://blog.westernsecurity.ie/2019/05/23/Exploiting-Post-Based-CSRF.html)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Languages and Tools:</h3>
