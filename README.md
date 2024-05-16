@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Cillian</h1>
-<h3 align="center">A computer science student with an interest in cyber security</h3>
+<h3 align="center">Software Engineer & CTF player based in Ireland</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cillian-collins&label=Profile%20views&color=0e75b6&style=flat" alt="cillian-collins" /> </p>
 
