@@ -7,10 +7,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
-- [Deadsec — TrailBlazer](https://blog.westernsecurity.ie/2023/05/21/Deadsec-Trailblazer.html)
-- [Digital Overdose CTF — Pop-Up Bank](https://blog.westernsecurity.ie/2022/11/20/Digital-Overdose-CTF-Pop-Up-Bank.html)
-- [MapleCTF — Pickle](https://blog.westernsecurity.ie/2022/08/29/MapleCTF-Pickle.html)
-- [Intigriti CTF — Phorrifyingp](https://blog.westernsecurity.ie/2022/03/12/Intigriti-CTF-Phorrifyingp.html)
+- [UMassCTF 2024](https://ireland.re/posts/UMassCTF2024/)
+- [CursedCTF 2024](https://ireland.re/posts/CursedCTF_2024/)
+- [KalmarCTF 2024 Web Challenges](https://ireland.re/posts/KalmarCTF_2024/)
+- [UofTCTF 2024 Challenge Writeups](https://ireland.re/posts/UofTCTF_2024/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Languages and Tools:</h3>
