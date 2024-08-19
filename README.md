@@ -7,10 +7,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [idekctf 2024 Web Writeups](https://ireland.re/posts/idekctf_2024/)
 - [Hitcon CTF 2024 RClonE](https://ireland.re/posts/HitconCTF_2024/)
 - [UMassCTF 2024](https://ireland.re/posts/UMassCTF2024/)
 - [CursedCTF 2024](https://ireland.re/posts/CursedCTF_2024/)
-- [KalmarCTF 2024 Web Challenges](https://ireland.re/posts/KalmarCTF_2024/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Languages and Tools:</h3>
