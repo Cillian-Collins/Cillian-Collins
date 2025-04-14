@@ -7,10 +7,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [squ1rrel CTF 2025 Geoguessr](https://ireland.re/posts/squ1rrel_2025_geoguessr/)
 - [irisctf 2025 Web Writeups](https://ireland.re/posts/irisctf_2025/)
 - [idekctf 2024 Web Writeups](https://ireland.re/posts/idekctf_2024/)
 - [Hitcon CTF 2024 RClonE](https://ireland.re/posts/HitconCTF_2024/)
-- [UMassCTF 2024](https://ireland.re/posts/UMassCTF2024/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Languages and Tools:</h3>
